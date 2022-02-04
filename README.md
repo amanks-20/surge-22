@@ -1,12 +1,12 @@
 ## SURGE-22 RESEARCH PROJECT
 
-**Application No: 2230061**
+- **Application No: 2230061**
 
-**Name: Aman Kumar Singh**
+- **Name: Aman Kumar Singh**
 
-**Mentor: Prof. Salil Goel**
+- **Mentor: Prof. Salil Goel**
 
-**Department: Civil Engineering**
+- **Department: Civil Engineering**
 
 ### Research Proposal for SURGE 2022 
 
