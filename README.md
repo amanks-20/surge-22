@@ -1,14 +1,12 @@
 # SURGE-22 RESEARCH PROJECT
 
-**Research Project Title: Adding Color Information to LiDAR using Camera Calibration**
-
 **Application No: 2230061**
 
 **Name: Aman Kumar Singh**
 
 ### Research Proposal for SURGE 2022 
 
-**Title:** Adding Colour Information to LiDAR using Camera Calibration 
+#### **Title:** Adding Colour Information to LiDAR using Camera Calibration 
 
 **Aim:** 
 Add colour information to 3D LiDAR models using camera calibration and machine learning tools. 
