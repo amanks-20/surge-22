@@ -1,0 +1,8 @@
+From Salil Goel:
+	https://www.mdpi.com/1424-8220/20/21/6319
+From Salil Goel:
+	https://github.com/heethesh/lidar_camera_calibration
+From Salil Goel:
+	https://arxiv.org/abs/2101.04431
+From Salil Goel:
+	https://ieeexplore.ieee.org/document/8665256
