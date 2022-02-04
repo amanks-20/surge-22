@@ -4,6 +4,10 @@
 
 **Name: Aman Kumar Singh**
 
+**Mentor: Prof. Salil Goel**
+
+**Department: Civil Engineering**
+
 ### Research Proposal for SURGE 2022 
 
 # **Title:** Adding Colour Information to LiDAR using Camera Calibration 
