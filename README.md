@@ -1,4 +1,4 @@
-# SURGE-22 RESEARCH PROJECT
+### SURGE-22 RESEARCH PROJECT
 
 **Application No: 2230061**
 
@@ -6,7 +6,7 @@
 
 ### Research Proposal for SURGE 2022 
 
-### **Title:** Adding Colour Information to LiDAR using Camera Calibration 
+## **Title:** Adding Colour Information to LiDAR using Camera Calibration 
 
 **Aim:** 
 Add colour information to 3D LiDAR models using camera calibration and machine learning tools. 
