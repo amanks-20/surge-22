@@ -30,11 +30,7 @@ LiDAR-Camera; Calibration.
 2. https://arxiv.org/abs/2101.04431
 3. https://ieeexplore.ieee.org/document/8665256 
 4. https://github.com/heethesh/lidar_camera_calibration
-
-
-
-https://in.mathworks.com/help/vision/ug/camera-calibration.html
-
-https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html
+5. https://in.mathworks.com/help/vision/ug/camera-calibration.html
+6. https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html
 
 
